@@ -1,0 +1,8 @@
+{
+  "accentColor": "#8a5cf5",
+  "cssTheme": "Things",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "page_width"
+  ]
+}
