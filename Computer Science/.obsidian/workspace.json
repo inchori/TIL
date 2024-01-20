@@ -23,12 +23,8 @@
             "id": "933744d7ce1bcd01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/3. 프로세스와 스레드.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -40,16 +36,6 @@
                 "file": "Network/2. TCP IP 4계층 모델.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3d2686a1ff6a9e87",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-11 01.00.50.excalidraw.md"
               }
             }
           }
@@ -120,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/3. 프로세스와 스레드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/3. 프로세스와 스레드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/3. 프로세스와 스레드.md"
+                "file": "Excalidraw/TCP IP 4계층.md"
               }
             }
           }
@@ -182,15 +166,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "933744d7ce1bcd01",
+  "active": "3dc80c36a6e77cd3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-11 00.48.18.excalidraw.md",
+    "Operating System/3. 프로세스와 스레드.md",
     "Network/2. TCP IP 4계층 모델.md",
     "Network/1. 네트워크의 기초.md",
-    "Operating System/3. 프로세스와 스레드.md",
     "Operating System/2. 메모리.md",
     "Operating System/1. 운영체제와 컴퓨터.md",
     "Excalidraw/OS구조.png",
-    "Excalidraw/Drawing 2024-01-11 00.48.18.excalidraw.md",
     "Excalidraw/OS.png",
     "Excalidraw/Drawing 2024-01-11 01.00.50.excalidraw.md",
     "Excalidraw/Drawing 2024-01-11 00.59.29.excalidraw.md",
